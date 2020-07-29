@@ -18,4 +18,15 @@
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
 ]]></content>
   </entry>
+  <entry>
+    <title>hello</title>
+    <url>/2020/07/29/hello/</url>
+    <content><![CDATA[<h1 id="Hi-这是我们第一次见面"><a href="#Hi-这是我们第一次见面" class="headerlink" title="Hi,这是我们第一次见面~"></a>Hi,这是我们第一次见面~</h1>]]></content>
+      <categories>
+        <category>其他</category>
+      </categories>
+      <tags>
+        <tag>Hello</tag>
+      </tags>
+  </entry>
 </search>
